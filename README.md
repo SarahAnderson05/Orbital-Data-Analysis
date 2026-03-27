@@ -22,6 +22,13 @@ This analysis shows that
  - 'Orbital_Period_Analysis.mat' MATLAB CODE
  - 'Analysis of Orbital Parameters Using Real World Tw2.pdf' Full Report
  - Plots are included in both code and report
+## Example Results
+### Altitude
+![Altitude](altitude_plot.png)
+### Inclination
+![Inclination](inclination_plot.png)
+### Orbital Period
+![Period](period_compairson.png)
 ## Tools Used
  - MATLAB
  - Public TLE Data (CelesTrak)
