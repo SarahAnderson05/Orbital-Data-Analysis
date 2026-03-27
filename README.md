@@ -19,8 +19,8 @@ This analysis shows that
  - STARLINK operates at a lower altitude for reduced communication delays
  - The ISS balances accessibility and coverage with mid-inclination orbit
 ## Files
- - 'tle_analysis.m' MATLAB CODE
- - 'TLE_Orbital_Analysis_Report.pdf' Full Report
+ - 'Orbital_Period_Analysis.mat' MATLAB CODE
+ - 'Analysis of Orbital Parameters Using Real World Tw2.pdf' Full Report
  - Plots are included in both code and report
 ## Tools Used
  - MATLAB
